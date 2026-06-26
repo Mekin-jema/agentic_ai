@@ -1,7 +1,3 @@
-Here is a **precise, clean, and standard README.md** aligned with your course roadmap:
-
----
-
 # LangChain & LangGraph Agentic AI Engineering
 
 ## Overview
