@@ -29,7 +29,7 @@ def main():
     1. A short summary
     2. Two interesting facts
     """
-
+ 
     prompt = PromptTemplate(
         input_variables=["information"],
         template=summary_template,
