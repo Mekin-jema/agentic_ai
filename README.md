@@ -110,3 +110,4 @@ llm = ChatOpenAI(
 Mekin Jemal
 
 
+![alt text](image.png)
