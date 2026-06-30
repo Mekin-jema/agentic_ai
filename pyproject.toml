@@ -16,3 +16,6 @@ dependencies = [
     "tavily-python>=0.7.26",
     "truststore>=0.10.4",
 ]
+
+[tool.setuptools.packages.find]
+where = ["src"]
